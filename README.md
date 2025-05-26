@@ -34,7 +34,7 @@ streamlit run app.py
 
 ![Startup Pitch Predictor UI](https://github.com/aarushitandon0/startup-pitch-predictor/assets/f3f89411-7f6e-43dd-8b51-872063062dd5)
 
-##Model Details
+## Model Details
 Logistic Regression classifier
 Trained on startup pitch dataset
 Feature engineered with:
@@ -42,7 +42,7 @@ Feature engineered with:
 2. Scaled funding amount
 3. Encoded startup category
 
-##Future Improvements
+## Future Improvements
 Add live feedback on pitch text
 
 More training data for better accuracy
