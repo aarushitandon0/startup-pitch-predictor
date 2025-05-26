@@ -32,7 +32,7 @@ streamlit run app.py
 
 ## UI Preview
 
-![UI Screenshot](https://github.com/yourusername/yourrepo/blob/main/images/Screenshot%202025-05-26%20175140.png?raw=true)
+[![UI Screenshot](https://github.com/aarushitandon0/startup-pitch-predictor/blob/main/Screenshot%202025-05-26%20175140.png?raw=true)](https://github.com/aarushitandon0/startup-pitch-predictor/blob/main/Screenshot%202025-05-26%20175140.png)
 
 ## Model Details
 Logistic Regression classifier
